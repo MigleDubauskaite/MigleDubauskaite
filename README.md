@@ -64,7 +64,7 @@ Me apasiona el **aprendizaje continuo** y el **desarrollo tecnológico**, siempr
     <img src="linkedin.png" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:perezmartinezmd@gmail.com">
+  <a href="mailto:mdubauskaite2004@gmail.com">
     <img src="gmail.png" width="40" />
   </a>
 </div>
